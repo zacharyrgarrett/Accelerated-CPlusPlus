@@ -2,4 +2,7 @@
 *.ilk
 *.obj
 *.pdb
+*.cmake
 .vscode
+CMakeCache.txt
+CMakeFiles
